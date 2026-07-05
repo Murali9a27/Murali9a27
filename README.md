@@ -1,6 +1,6 @@
 # Hey, I'm Murali 👋
 
-I build things for the web — sometimes because someone needs them, sometimes because I got curious at 11pm and couldn't stop until it worked.
+I build things for the web sometimes because someone needs them, sometimes because I got curious at 11pm and couldn't stop until it worked.
 
 I started with plain HTML/CSS/JS (the "why won't this div center" era), and now I mostly live in React, Next.js, and PHP/WordPress-land. I like projects that actually get used by real people, not just ones that look nice in a screenshot.
 
