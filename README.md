@@ -20,7 +20,7 @@ I started with plain HTML/CSS/JS (the "why won't this div center" era), and now 
 
 **[jsDrumKit](https://github.com/Murali9a27/jsDrumKit)** — Small, fun, satisfying. Sometimes you just want to make keyboard keys trigger drum sounds. No notes.
 
-Check out the rest on my [repositories](https://github.com/Murali9a27?tab=repositories) — I've got a few more learning projects in there too (learning-react, Online_Learning) because I don't think you ever really stop being a student.
+Check out the rest on my [repositories](https://github.com/Murali9a27?tab=repositories) — I've got a few more learning projects in there too (Agenct website {Brand Aura}, Online_Learning) because I don't think you ever really stop being a student.
 
 ## What I'm doing right now
 
@@ -30,7 +30,7 @@ Sharpening my Next.js and full-stack skills, and looking for opportunities to bu
 
 If you've got a project, an idea, or just want to talk shop about why CSS still finds new ways to humble all of us:
 
-- 💼 Open to web developer roles (frontend-leaning, full-stack capable)
+- 💼 Open to web developer roles (frontend, full-stack capable)
 - 📩 Reach out through GitHub or drop a message — details in my profile
 - 🛠️ Always down to collaborate on something interesting
 
